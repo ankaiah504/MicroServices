@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<db_config>
+<db_userName>system</db_userName>
+<db_password_encrypted/>
+<db_password_plain>SYSTEM</db_password_plain>
+<db_url>jdbc:oracle:thin:@10.88.239.85:1521/XEPDB1</db_url>
+<db_class_name>oracle.jdbc.driver.OracleDriver</db_class_name>
+<db_type>oracle</db_type>
+</db_config>
